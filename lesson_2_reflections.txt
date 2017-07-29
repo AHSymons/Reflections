@@ -15,11 +15,18 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-How do the diagrams help you visualize the branch structure?
+	Branches are usful to save changes without changing the master branch. This is usful if you want to experiment with something, e.g. changing te langage, adding a feture, chagning the layout or anything else. 
 
+How do the diagrams help you visualize the branch structure?
+    
+    Diagrams help by alowing you to think throgh lists and text and thing in you mind visualy. 
+    
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+    Merging two branches together results in the changes from both beeing added together. Diagraming helps to understand what is going on when you merge two branches.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
+    Git auto merge is usful when there are no conflicts as merges are likley to produce code that was desired and not remove cody or change code. Merging manualy when there are conflicts give the user/s an opertunity to decide what code is the best to keep. Conflict indicates when changes have been made to the same line by multiple people. So indicates when and what to talk about to resolve. 
