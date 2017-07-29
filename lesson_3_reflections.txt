@@ -8,7 +8,9 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Manual pull alows the user to determain what and when to pull 
+    commits made to GitHub. If this was automatic, you may end up 
+    with stuff you dont want. The same gose fo push. Manual alows users to determain when and what commits to push to GitHub. i.e. what infomation to share.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
