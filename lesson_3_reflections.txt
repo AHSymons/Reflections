@@ -28,7 +28,10 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It is possible to compar the changes you make localy to the origin/master 
+    and keep track. If user makes a pull request it is posible to see 
+    changes others have made to the GitHub repo. This infomation can be
+    used to manage conflicts.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
